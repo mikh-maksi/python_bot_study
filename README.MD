@@ -23,3 +23,7 @@ https://t.me/sme_aspirin_bot
 
 Вихідний код:
 https://github.com/mikh-maksi/aspirin_bot/blob/main/telegram_bot/aspirin_bot.py
+
+## Не бот
+Форма опитування стосовно деталізації власних рішень
+https://docs.google.com/forms/d/1o-oVhOv0_v751xLQxtCko6GBon5icdXtt0f4c8wko38/edit
